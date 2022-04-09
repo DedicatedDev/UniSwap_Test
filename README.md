@@ -16,3 +16,8 @@ npx hardhat test
 # Environment 
 Test is running in local network forked from mainnet. 
 
+# Disclaimer
+This code does not assume production environments 
+so did not implemented upgradable, complex governance. 
+Only implemented initial logic and simple security management by ownable.  
+
